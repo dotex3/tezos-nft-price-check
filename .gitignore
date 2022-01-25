@@ -1,0 +1,6 @@
+#User Settings File#
+####################
+
+# This file will contain secrets so it should not be removed from this list!
+settings.ini
+__pycache__

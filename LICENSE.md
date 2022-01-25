@@ -1,0 +1,1 @@
+Tezos NFT Price Check by dotEX3 is licensed under CC BY-SA 4.0
